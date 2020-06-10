@@ -1,0 +1,8 @@
+name : Continuous Integration
+# triggers on [push]
+on: [push]
+
+jobs:
+# build project job // running parcel?
+ build:
+   name:
