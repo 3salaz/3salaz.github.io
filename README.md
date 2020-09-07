@@ -14,9 +14,6 @@
 
 [![Spotify](https://novatorem-one-navy.vercel.app/api/spotify)](https://open.spotify.com/user/3salaz)
 
-
-[<img src="https://now-playing-3salaz.vercel.app/api/spotify-playing" alt="3salaz Spotify Playing" width="350" />](https://open.spotify.com/user/3salaz)
-
 ### Connect with me:
 
 [<img align="left" alt="3salaz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
