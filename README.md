@@ -51,6 +51,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Test Video](https://www.youtube.com/watch?v=g4CvXOleLkk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/3salaz)
