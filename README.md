@@ -83,7 +83,7 @@ END_SECTION:activity -->
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="3salaz's Github Stats" src="github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
+  <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
 
 </details>
 
