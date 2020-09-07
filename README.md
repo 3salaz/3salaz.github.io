@@ -12,7 +12,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](novatorem-one-navy.vercel.app)](https://open.spotify.com/user/3salaz)
+[![Spotify](https://3salaz.vercel.app/api/spotify)](https://open.spotify.com/user/3salaz)
+
 
 [<img src="https://now-playing-3salaz.vercel.app/api/spotify-playing" alt="3salaz Spotify Playing" width="350" />](https://open.spotify.com/user/3salaz)
 
