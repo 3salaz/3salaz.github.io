@@ -1,0 +1,16 @@
+name: Latest Blog Workflow
+on:
+  schedule:
+    # runs every hour
+    - cron: "0****"
+  worlflow_dispach:
+
+jobs:
+  update-readme-with-blog-update:
+    name: Update the latest readme for blog updates
+    run-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+        feed_list: "https://feeds.feedburner.com/TechCrunch/"
