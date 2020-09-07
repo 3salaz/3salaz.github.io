@@ -2,8 +2,6 @@
 [![Website](https://img.shields.io/website?label=3salaz.com&style=for-the-badge&url=https%3A%2F%2F3salaz.com)](https://3salaz.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/3salaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F3salaz&screen_name=3salaz)
 
-</br>
-
 [<img align="left" alt="3salaz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="3salaz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="3salaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
