@@ -1,7 +1,11 @@
 ### Hi there, I'm Erik - aka [3salaz][website][devops] 👋
 
 [![Website](https://img.shields.io/website?label=3salaz.com&style=for-the-badge&url=https%3A%2F%2F3salaz.com)](https://3salaz.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/3salaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F3salaz&screen_name=3salaz)
+[![
+
+
+
+Follow](https://img.shields.io/twitter/follow/3salaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F3salaz&screen_name=3salaz)
 
 ## I'm a Developer,Student and Mentor!
 
@@ -100,10 +104,10 @@ END_SECTION:activity -->
 </details>
 
 [website]: https://3salaz.com
-[twitter]: https://twitter.com/3salaz
+[twitter]: https://twitter.com/esalaz415
 [youtube]: https://www.youtube.com/channel/UC2vDII5z-Ym-cD5DacIyQwA/videos?view_as=subscriber
-[instagram]: https://instagram.com/3salaz
-[linkedin]: https://linkedin.com/in/3salaz
+[instagram]: https://instagram.com/3salaz.dev
+[linkedin]: https://www.linkedin.com/in/esalaz/
 [gameheads/devops]: https://gameheadsoakland.org/dev-ops
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
