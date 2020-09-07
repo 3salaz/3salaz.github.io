@@ -48,25 +48,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Test Video](https://www.youtube.com/watch?v=g4CvXOleLkk)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/3salaz)
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [The Day It Begins…](https://medium.com/@3salaz.dev/the-day-it-begins-4d359c19c5?source=rss-360bffa70f7a------2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://3salaz.com)
-
----
-
 ## :zap: Github Stats
 
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
@@ -82,8 +63,26 @@
 5. 💪 Opened PR [#12](https://github.com//3salaz/3salaz/pull/12) in [3salaz/3salaz](https://github.com//3salaz/3salaz)
 <!--END_SECTION:activity-->
 
+---
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [The Day It Begins…](https://medium.com/@3salaz.dev/the-day-it-begins-4d359c19c5?source=rss-360bffa70f7a------2)
+<!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://3salaz.com)
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Test Video](https://www.youtube.com/watch?v=g4CvXOleLkk)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/3salaz)
+
+---
 
 [website]: https://3salaz.com
 [twitter]: https://twitter.com/esalaz415
