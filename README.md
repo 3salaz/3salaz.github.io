@@ -46,10 +46,9 @@ Markdown   14 mins         ██████████░░░░░░░�
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+---
 
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
-
----
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com//3salaz/exVibes-Web/pull/2) in [3salaz/exVibes-Web](https://github.com//3salaz/exVibes-Web)
