@@ -51,7 +51,7 @@ Markdown   14 mins         ██████████░░░░░░░�
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
   
 
-## :zap: Recent Github Activity
+### :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com//3salaz/exVibes-Web/pull/2) in [3salaz/exVibes-Web](https://github.com//3salaz/exVibes-Web)
