@@ -54,11 +54,11 @@ Markdown     33 mins         █░░░░░░░░░░░░░░░░
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com//3salaz/civilMattersOak/pull/43) in [3salaz/civilMattersOak](https://github.com//3salaz/civilMattersOak)
-2. 💪 Opened PR [#43](https://github.com//3salaz/civilMattersOak/pull/43) in [3salaz/civilMattersOak](https://github.com//3salaz/civilMattersOak)
-3. 🎉 Merged PR [#2](https://github.com//3salaz/exVibes-Web/pull/2) in [3salaz/exVibes-Web](https://github.com//3salaz/exVibes-Web)
-4. 🎉 Merged PR [#13](https://github.com//3salaz/3salaz/pull/13) in [3salaz/3salaz](https://github.com//3salaz/3salaz)
-5. 💪 Opened PR [#13](https://github.com//3salaz/3salaz/pull/13) in [3salaz/3salaz](https://github.com//3salaz/3salaz)
+1. 💪 Opened PR [#7](https://github.com//tekperfect/tekperfect/pull/7) in [tekperfect/tekperfect](https://github.com//tekperfect/tekperfect)
+2. 🎉 Merged PR [#43](https://github.com//3salaz/civilMattersOak/pull/43) in [3salaz/civilMattersOak](https://github.com//3salaz/civilMattersOak)
+3. 💪 Opened PR [#43](https://github.com//3salaz/civilMattersOak/pull/43) in [3salaz/civilMattersOak](https://github.com//3salaz/civilMattersOak)
+4. 🎉 Merged PR [#2](https://github.com//3salaz/exVibes-Web/pull/2) in [3salaz/exVibes-Web](https://github.com//3salaz/exVibes-Web)
+5. 🎉 Merged PR [#13](https://github.com//3salaz/3salaz/pull/13) in [3salaz/3salaz](https://github.com//3salaz/3salaz)
 <!--END_SECTION:activity-->
 
 ---
