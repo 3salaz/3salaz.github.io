@@ -62,8 +62,10 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:activity-->
 
 ---
+---
 
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [The Day It Begins…](https://medium.com/@3salaz.dev/the-day-it-begins-4d359c19c5?source=rss-360bffa70f7a------2)
 <!-- BLOG-POST-LIST:END -->
