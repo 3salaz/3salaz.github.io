@@ -54,11 +54,11 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com//tekperfect/tekperfect/pull/9) in [tekperfect/tekperfect](https://github.com//tekperfect/tekperfect)
-2. 💪 Opened PR [#9](https://github.com//tekperfect/tekperfect/pull/9) in [tekperfect/tekperfect](https://github.com//tekperfect/tekperfect)
-3. 🎉 Merged PR [#8](https://github.com//tekperfect/tekperfect/pull/8) in [tekperfect/tekperfect](https://github.com//tekperfect/tekperfect)
-4. 💪 Opened PR [#8](https://github.com//tekperfect/tekperfect/pull/8) in [tekperfect/tekperfect](https://github.com//tekperfect/tekperfect)
-5. 🎉 Merged PR [#7](https://github.com//tekperfect/tekperfect/pull/7) in [tekperfect/tekperfect](https://github.com//tekperfect/tekperfect)
+1. 🎉 Merged PR [#14](https://github.com//3salaz/3salaz/pull/14) in [3salaz/3salaz](https://github.com//3salaz/3salaz)
+2. 🎉 Merged PR [#9](https://github.com//tekperfect/tekperfect/pull/9) in [tekperfect/tekperfect](https://github.com//tekperfect/tekperfect)
+3. 💪 Opened PR [#9](https://github.com//tekperfect/tekperfect/pull/9) in [tekperfect/tekperfect](https://github.com//tekperfect/tekperfect)
+4. 🎉 Merged PR [#8](https://github.com//tekperfect/tekperfect/pull/8) in [tekperfect/tekperfect](https://github.com//tekperfect/tekperfect)
+5. 💪 Opened PR [#8](https://github.com//tekperfect/tekperfect/pull/8) in [tekperfect/tekperfect](https://github.com//tekperfect/tekperfect)
 <!--END_SECTION:activity-->
 
 ---
