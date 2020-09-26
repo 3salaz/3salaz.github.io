@@ -12,10 +12,10 @@
 
 ## I'm a Developer,Student and Mentor!
 
-- 🔭 I’m currently working as a Devops Instructor @ [Gameheads][gameheads/devops]!
+- 🔭 I’m currently working as a Devops Assistant @ [Gameheads][gameheads/devops]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other engineers online!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to my unity project.
 - ⚡ Fun fact: ...
 
 ### Spotify Playing 🎧
