@@ -7,6 +7,7 @@
 [<img align="left" alt="3salaz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 </br>
+
 ---
 
 [![Website](https://img.shields.io/website?label=3salaz.com&style=for-the-badge&url=https%3A%2F%2F3salaz.com)](https://3salaz.com)
