@@ -62,6 +62,7 @@ Markdown     14 mins         █▒░░░░░░░░░░░░░░░
 5. 💪 Opened PR [#8](https://github.com//tekperfect/tekperfect/pull/8) in [tekperfect/tekperfect](https://github.com//tekperfect/tekperfect)
 <!--END_SECTION:activity-->
 
+---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
