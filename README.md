@@ -57,11 +57,11 @@ Bash         3 mins          ░░░░░░░░░░░░░░░░░
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/tekperfect/devops-docs/pull/9) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-2. 💪 Opened PR [#9](https://github.com/tekperfect/devops-docs/pull/9) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-3. 🎉 Merged PR [#8](https://github.com/tekperfect/devops-docs/pull/8) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-4. 💪 Opened PR [#8](https://github.com/tekperfect/devops-docs/pull/8) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-5. 🎉 Merged PR [#7](https://github.com/tekperfect/devops-docs/pull/7) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+1. 💪 Opened PR [#11](https://github.com/tekperfect/devops-docs/pull/11) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+2. 🎉 Merged PR [#10](https://github.com/tekperfect/devops-docs/pull/10) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+3. 💪 Opened PR [#10](https://github.com/tekperfect/devops-docs/pull/10) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+4. 🎉 Merged PR [#9](https://github.com/tekperfect/devops-docs/pull/9) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+5. 💪 Opened PR [#9](https://github.com/tekperfect/devops-docs/pull/9) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
 <!--END_SECTION:activity-->
 
 <br>
