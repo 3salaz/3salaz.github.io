@@ -80,6 +80,7 @@ JavaScript   22 mins         ▓░░░░░░░░░░░░░░░░
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Devops |  10-24-20](https://www.youtube.com/watch?v=YXbz8OZe5A8)
 - [Test Video](https://www.youtube.com/watch?v=g4CvXOleLkk)
 <!-- YOUTUBE:END -->
 
