@@ -27,9 +27,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     2 hrs 43 mins   ██████████████████████▒░░   88.81 % 
-C#           11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML         1 hr 27 mins    ███████▓░░░░░░░░░░░░░░░░░   31.19 % 
+Markdown     1 hr 13 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.22 % 
+JavaScript   55 mins         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+CSS          29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+C#           11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -56,11 +58,11 @@ Other        8 mins          █░░░░░░░░░░░░░░░░
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/ExperimentalVibes/civilMatters/pull/9) in [ExperimentalVibes/civilMatters](https://github.com/ExperimentalVibes/civilMatters)
-2. 💪 Opened PR [#9](https://github.com/ExperimentalVibes/civilMatters/pull/9) in [ExperimentalVibes/civilMatters](https://github.com/ExperimentalVibes/civilMatters)
-3. 🎉 Merged PR [#8](https://github.com/ExperimentalVibes/civilMatters/pull/8) in [ExperimentalVibes/civilMatters](https://github.com/ExperimentalVibes/civilMatters)
-4. 💪 Opened PR [#8](https://github.com/ExperimentalVibes/civilMatters/pull/8) in [ExperimentalVibes/civilMatters](https://github.com/ExperimentalVibes/civilMatters)
-5. 🎉 Merged PR [#7](https://github.com/ExperimentalVibes/civilMatters/pull/7) in [ExperimentalVibes/civilMatters](https://github.com/ExperimentalVibes/civilMatters)
+1. 💪 Opened PR [#2](https://github.com/3salaz/hello-github-actions/pull/2) in [3salaz/hello-github-actions](https://github.com/3salaz/hello-github-actions)
+2. 🎉 Merged PR [#9](https://github.com/ExperimentalVibes/civilMatters/pull/9) in [ExperimentalVibes/civilMatters](https://github.com/ExperimentalVibes/civilMatters)
+3. 💪 Opened PR [#9](https://github.com/ExperimentalVibes/civilMatters/pull/9) in [ExperimentalVibes/civilMatters](https://github.com/ExperimentalVibes/civilMatters)
+4. 🎉 Merged PR [#8](https://github.com/ExperimentalVibes/civilMatters/pull/8) in [ExperimentalVibes/civilMatters](https://github.com/ExperimentalVibes/civilMatters)
+5. 💪 Opened PR [#8](https://github.com/ExperimentalVibes/civilMatters/pull/8) in [ExperimentalVibes/civilMatters](https://github.com/ExperimentalVibes/civilMatters)
 <!--END_SECTION:activity-->
 
 <br>
@@ -78,7 +80,6 @@ Other        8 mins          █░░░░░░░░░░░░░░░░
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Devops |  10-24-20](https://www.youtube.com/watch?v=YXbz8OZe5A8)
 - [Test Video](https://www.youtube.com/watch?v=g4CvXOleLkk)
 <!-- YOUTUBE:END -->
 
