@@ -58,11 +58,11 @@ SCSS         50 mins         █▓░░░░░░░░░░░░░░░
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/tekperfect/devops-docs/issues/2) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-2. ❗️ Closed issue [#1](https://github.com/tekperfect/devops-docs/issues/1) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-3. 🎉 Merged PR [#15](https://github.com/tekperfect/devops-docs/pull/15) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-4. 💪 Opened PR [#15](https://github.com/tekperfect/devops-docs/pull/15) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-5. 💪 Opened PR [#2](https://github.com/3salaz/hello-github-actions/pull/2) in [3salaz/hello-github-actions](https://github.com/3salaz/hello-github-actions)
+1. 🗣 Commented on [#16](https://github.com/tekperfect/devops-docs/issues/16) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+2. ❗️ Closed issue [#2](https://github.com/tekperfect/devops-docs/issues/2) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+3. ❗️ Closed issue [#1](https://github.com/tekperfect/devops-docs/issues/1) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+4. 🎉 Merged PR [#15](https://github.com/tekperfect/devops-docs/pull/15) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+5. 💪 Opened PR [#15](https://github.com/tekperfect/devops-docs/pull/15) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
 <!--END_SECTION:activity-->
 
 <br>
