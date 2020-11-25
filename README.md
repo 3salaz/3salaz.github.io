@@ -58,11 +58,11 @@ Markdown     34 mins         █░░░░░░░░░░░░░░░░
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ExperimentalVibes/Gameheads2020/pull/1) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
-2. 💪 Opened PR [#18](https://github.com/tekperfect/devops-docs/pull/18) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-3. 💪 Opened PR [#17](https://github.com/tekperfect/devops-docs/pull/17) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-4. 🗣 Commented on [#16](https://github.com/tekperfect/devops-docs/issues/16) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-5. ❗️ Closed issue [#2](https://github.com/tekperfect/devops-docs/issues/2) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+1. 💪 Opened PR [#2](https://github.com/ExperimentalVibes/Gameheads2020/pull/2) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
+2. 💪 Opened PR [#1](https://github.com/ExperimentalVibes/Gameheads2020/pull/1) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
+3. 💪 Opened PR [#18](https://github.com/tekperfect/devops-docs/pull/18) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+4. 💪 Opened PR [#17](https://github.com/tekperfect/devops-docs/pull/17) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+5. 🗣 Commented on [#16](https://github.com/tekperfect/devops-docs/issues/16) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
 <!--END_SECTION:activity-->
 
 <br>
