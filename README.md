@@ -58,11 +58,11 @@ Markdown     55 mins         █▓░░░░░░░░░░░░░░░
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ExperimentalVibes/Gameheads2020/pull/4) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
-2. 💪 Opened PR [#4](https://github.com/ExperimentalVibes/Gameheads2020/pull/4) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
-3. 🎉 Merged PR [#3](https://github.com/ExperimentalVibes/Gameheads2020/pull/3) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
-4. 💪 Opened PR [#3](https://github.com/ExperimentalVibes/Gameheads2020/pull/3) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
-5. 🎉 Merged PR [#1](https://github.com/ExperimentalVibes/Gameheads2020/pull/1) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
+1. 🎉 Merged PR [#7](https://github.com/ExperimentalVibes/Gameheads2020/pull/7) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
+2. 💪 Opened PR [#7](https://github.com/ExperimentalVibes/Gameheads2020/pull/7) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
+3. 🎉 Merged PR [#6](https://github.com/ExperimentalVibes/Gameheads2020/pull/6) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
+4. 💪 Opened PR [#6](https://github.com/ExperimentalVibes/Gameheads2020/pull/6) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
+5. 🎉 Merged PR [#4](https://github.com/ExperimentalVibes/Gameheads2020/pull/4) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
 <!--END_SECTION:activity-->
 
 <br>
