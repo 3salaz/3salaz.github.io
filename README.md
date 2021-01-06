@@ -27,8 +27,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   13 mins         ██████████████████░░░░░░░   71.93 % 
-HTML         4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
