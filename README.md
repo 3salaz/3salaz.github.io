@@ -54,11 +54,11 @@ No Activity tracked this Week
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/tekperfect/devops-docs/issues/14) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-2. 🎉 Merged PR [#9](https://github.com/ExperimentalVibes/Gameheads2020/pull/9) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
-3. 💪 Opened PR [#9](https://github.com/ExperimentalVibes/Gameheads2020/pull/9) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
-4. 🎉 Merged PR [#8](https://github.com/ExperimentalVibes/Gameheads2020/pull/8) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
-5. 💪 Opened PR [#8](https://github.com/ExperimentalVibes/Gameheads2020/pull/8) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
+1. ❗️ Opened issue [#19](https://github.com/tekperfect/devops-docs/issues/19) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+2. ❗️ Closed issue [#14](https://github.com/tekperfect/devops-docs/issues/14) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
+3. 🎉 Merged PR [#9](https://github.com/ExperimentalVibes/Gameheads2020/pull/9) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
+4. 💪 Opened PR [#9](https://github.com/ExperimentalVibes/Gameheads2020/pull/9) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
+5. 🎉 Merged PR [#8](https://github.com/ExperimentalVibes/Gameheads2020/pull/8) in [ExperimentalVibes/Gameheads2020](https://github.com/ExperimentalVibes/Gameheads2020)
 <!--END_SECTION:activity-->
 
 <br>
