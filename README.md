@@ -57,11 +57,11 @@ JavaScript   5 mins          █░░░░░░░░░░░░░░░░
 <img align="left" alt="3salaz's Github Stats" src="https://github-readme-stats-nine-steel.vercel.app/api?username=3salaz&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/3salaz/bbgrl415/pull/3) in [3salaz/bbgrl415](https://github.com/3salaz/bbgrl415)
-2. 💪 Opened PR [#3](https://github.com/3salaz/bbgrl415/pull/3) in [3salaz/bbgrl415](https://github.com/3salaz/bbgrl415)
-3. ❗️ Closed issue [#19](https://github.com/tekperfect/devops-docs/issues/19) in [tekperfect/devops-docs](https://github.com/tekperfect/devops-docs)
-4. 🎉 Merged PR [#2](https://github.com/3salaz/bbgrl415/pull/2) in [3salaz/bbgrl415](https://github.com/3salaz/bbgrl415)
-5. 💪 Opened PR [#2](https://github.com/3salaz/bbgrl415/pull/2) in [3salaz/bbgrl415](https://github.com/3salaz/bbgrl415)
+1. 🎉 Merged PR [#21](https://github.com/3salaz/3salaz/pull/21) in [3salaz/3salaz](https://github.com/3salaz/3salaz)
+2. 💪 Opened PR [#21](https://github.com/3salaz/3salaz/pull/21) in [3salaz/3salaz](https://github.com/3salaz/3salaz)
+3. 🎉 Merged PR [#20](https://github.com/3salaz/3salaz/pull/20) in [3salaz/3salaz](https://github.com/3salaz/3salaz)
+4. 💪 Opened PR [#20](https://github.com/3salaz/3salaz/pull/20) in [3salaz/3salaz](https://github.com/3salaz/3salaz)
+5. 🎉 Merged PR [#3](https://github.com/3salaz/bbgrl415/pull/3) in [3salaz/bbgrl415](https://github.com/3salaz/bbgrl415)
 <!--END_SECTION:activity-->
 
 <br>
