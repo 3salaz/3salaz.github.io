@@ -23,10 +23,6 @@
     "url": "https://github.com/3salaz/3salaz/issues"
   },
   "homepage": "https://github.com/3salaz/3salaz#readme",
-  "devDependencies": {
-    "@firebase/testing": "^0.20.0",
-    "jest": "^26.0.1"
-  },
   "dependencies": {
     "firebase-functions": "^3.11.0"
   }
