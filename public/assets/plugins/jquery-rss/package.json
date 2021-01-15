@@ -10,10 +10,7 @@
     "ender"
   ],
   "ender": "noop",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/sdepold/jquery-rss.git"
-  },
+  "repository": "git://github.com/sdepold/jquery-rss.git",
   "contributors": [
     {
       "name": "Sascha Depold",
