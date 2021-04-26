@@ -70,7 +70,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 ---
 
 [website]: https://3salaz.com
-[twitter]: https://twitter.com/esalaz415
+[twitter]: https://twitter.com/3salaz.dev
 [youtube]: https://www.youtube.com/channel/UC2vDII5z-Ym-cD5DacIyQwA/videos?view_as=subscriber
 [instagram]: https://instagram.com/3salaz.dev
 [linkedin]: https://www.linkedin.com/in/esalaz/
