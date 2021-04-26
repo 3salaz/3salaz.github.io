@@ -73,7 +73,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 [twitter]: https://twitter.com/3salaz_dev
 [youtube]: https://www.youtube.com/channel/UC2vDII5z-Ym-cD5DacIyQwA/videos?view_as=subscriber
 [instagram]: https://instagram.com/3salaz.dev
-[linkedin]: https://www.linkedin.com/in/esalaz/
+[linkedin]: https://www.linkedin.com/in/3salaz/
 [gameheads/devops]: https://gameheadsoakland.org/dev-ops
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
